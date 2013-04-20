@@ -1,4 +1,4 @@
 JCode
 =====
 
-A simple `php like` web application development framework for node js
+A simple `php like` web application development framework for nodejs
