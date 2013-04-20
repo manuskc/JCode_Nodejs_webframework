@@ -25,7 +25,7 @@ How to use?
 * In your JCode use `(%)` instead of `%` if you need to use percentage symbol
 * 
 * Start server : `node index.js`
-* Visit : http://localhost:8080/<filename>     (filename relative from `files` directory)
+* Visit : http://localhost:8080/&lt;filename&gt; (filename relative from `files` directory)
 
 
 Known issues
